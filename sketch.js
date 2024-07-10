@@ -18,7 +18,7 @@ function setup() {
     y = random(50, height / 2 - 50);
     x0 = x;
     y0 = y;
-    s = random(10, 20);
+    s = random(20, 35);
     beeA.push({ x: x, y: y, x0: x0, y0: y0, s: s });
   }
 }
