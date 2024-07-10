@@ -8,7 +8,7 @@ let n = 5;
 
 function preload() {
 
-bg = loadImage("03-rose.png");
+bg = loadImage("03-rose.jpg");
 
 bee = loadImage("Bee.png");
 
